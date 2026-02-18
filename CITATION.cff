@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica: Sistema respiratorio simplificado'
+message: Modelado de Sistemas Fisiológicos / Ingeniería Biomédica
+type: software
+authors:
+  - email: l23210721@tectijuana.edu.mx
+    name-particle: Keybin D.
+    family-names: Sanchez Perez
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/KeybinSanchez/MSFPractica0.git'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/KeybinSanchez/MSFPractica0.git'
+keywords:
+  - Sistema respiratorio
+  - Circito RCL
+  - Controlador PID
+  - Modelo matemático
+  - Simulaciones numéricas
+version: '1.0'
+date-released: '2026-02-17'
